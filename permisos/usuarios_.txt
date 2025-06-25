@@ -2,8 +2,3 @@
 Usuario actual:
 vagrant
 Grupos del usuario:
-vagrant docker
-ID del usuario:
-uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant),121(docker)
-Usuarios del sistema:
-
