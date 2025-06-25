@@ -1,4 +1,0 @@
-========== INFORMACIÓN DE USUARIOS Y GRUPOS --  ==========
-Usuario actual:
-vagrant
-Grupos del usuario:

@@ -1,4 +1,4 @@
-========== INFORMACIÓN DE USUARIOS Y GRUPOS -- bogliano ==========
+===== INFORMACIÓN DE USUARIOS Y GRUPOS -- bogliano =====
 Usuario actual:
 vagrant
 Grupos del usuario:
@@ -6,4 +6,7 @@ vagrant docker
 ID del usuario:
 uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant),121(docker)
 Usuarios del sistema:
+usuario1:x:1002:1002::/home/usuario1:/bin/sh
+usuario2:x:1003:1003::/home/usuario2:/bin/sh
+usuario3:x:1004:1004::/home/usuario3:/bin/sh
 
