@@ -1,0 +1,23 @@
+===== VERIFICACIÓN DE ARCHIVOS - TERCER PERSONA =====
+Estructura de directorios creada:
+/mnt/almacenamiento_tercer_persona
+/mnt/almacenamiento_tercer_persona/temporal
+/mnt/almacenamiento_tercer_persona/respaldos
+/mnt/almacenamiento_tercer_persona/archivos
+/mnt/almacenamiento_tercer_persona/proyectos
+/mnt/almacenamiento_tercer_persona/proyectos/activos
+/mnt/almacenamiento_tercer_persona/proyectos/archivados
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_04.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_01.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_03.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_05.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_02.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/archivados/documento_06.txt
