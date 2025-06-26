@@ -1,0 +1,25 @@
+===== VERIFICACIÓN DE ARCHIVOS - FEL =====
+Estructura de directorios creada:
+/mnt/almacenamiento_fel
+/mnt/almacenamiento_fel/temporal
+/mnt/almacenamiento_fel/respaldos
+/mnt/almacenamiento_fel/archivos
+/mnt/almacenamiento_fel/proyectos
+/mnt/almacenamiento_fel/proyectos/activos
+/mnt/almacenamiento_fel/proyectos/archivados
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_04.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_01.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_03.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_05.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_02.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/respaldos/documento_09.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/archivados/documento_06.txt
