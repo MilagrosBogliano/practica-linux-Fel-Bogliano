@@ -1,0 +1,74 @@
+===== VERIFICACIÓN DE ARCHIVOS - FEL =====
+Estructura de directorios creada:
+/mnt/almacenamiento_fel
+/mnt/almacenamiento_fel/temporal
+/mnt/almacenamiento_fel/respaldos
+/mnt/almacenamiento_fel/archivos
+/mnt/almacenamiento_fel/proyectos
+/mnt/almacenamiento_fel/proyectos/activos
+/mnt/almacenamiento_fel/proyectos/archivados
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_04.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_01.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_03.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_05.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/temporal/documento_02.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/respaldos/documento_09.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:12 /mnt/almacenamiento_fel/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:12 /mnt/almacenamiento_fel/proyectos/archivados/documento_06.txt
+===== VERIFICACIÓN DE ARCHIVOS - BOGLIANO =====
+Estructura de directorios creada:
+/mnt/almacenamiento_bogliano
+/mnt/almacenamiento_bogliano/temporal
+/mnt/almacenamiento_bogliano/respaldos
+/mnt/almacenamiento_bogliano/archivos
+/mnt/almacenamiento_bogliano/proyectos
+/mnt/almacenamiento_bogliano/proyectos/activos
+/mnt/almacenamiento_bogliano/proyectos/archivados
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/temporal/documento_04.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/temporal/documento_01.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/temporal/documento_03.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/temporal/documento_05.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/temporal/documento_02.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/respaldos/documento_09.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 1052 Jun 26 03:13 /mnt/almacenamiento_bogliano/archivos/verificacion_archivos.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 27 Jun 26 03:12 /mnt/almacenamiento_bogliano/proyectos/archivados/documento_06.txt
+===== VERIFICACIÓN DE ARCHIVOS - TERCER PERSONA =====
+Estructura de directorios creada:
+/mnt/almacenamiento_tercer_persona
+/mnt/almacenamiento_tercer_persona/temporal
+/mnt/almacenamiento_tercer_persona/respaldos
+/mnt/almacenamiento_tercer_persona/archivos
+/mnt/almacenamiento_tercer_persona/proyectos
+/mnt/almacenamiento_tercer_persona/proyectos/activos
+/mnt/almacenamiento_tercer_persona/proyectos/archivados
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_04.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_01.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_03.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_05.txt
+-rw-r--r-- 1 root root 16 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/temporal/documento_02.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 14 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 17 Jun 26 22:32 /mnt/almacenamiento_tercer_persona/proyectos/archivados/documento_06.txt
