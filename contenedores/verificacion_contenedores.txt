@@ -24,3 +24,30 @@ Content-Type: text/html; charset=utf-8
 Date: Tue, 01 Jul 2025 23:00:33 GMT
 Connection: close
 
+===== VERIFICACIÓN CONTENEDORES - Fel =====
+
+Contenedores en ejecución:
+CONTAINER ID   IMAGE                  COMMAND      CREATED         STATUS                   PORTS                                                                                                                                                 NAMES
+e2e781cda3b0   pihole/pihole:latest   "start.sh"   6 minutes ago   Up 6 minutes (healthy)   67/udp, 123/udp, 443/tcp, 0.0.0.0:5353->53/tcp, 0.0.0.0:5353->53/udp, [::]:5353->53/tcp, [::]:5353->53/udp, 0.0.0.0:8800->80/tcp, [::]:8800->80/tcp   pihole-practica
+
+Estado de docker-compose:
+     Name         Command       State                                                                         Ports                                                                   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+pihole-practica   start.sh   Up (healthy)   123/udp, 443/tcp, 0.0.0.0:5353->53/tcp,:::5353->53/tcp, 0.0.0.0:5353->53/udp,:::5353->53/udp, 67/udp, 0.0.0.0:8800->80/tcp,:::8800->80/tcp
+
+Prueba de conectividad al servicio (esperado 403 o 200 si no hay login):
+HTTP/1.1 308 Permanent Redirect
+Location: /admin/
+Cache-Control: max-age=3600
+X-DNS-Prefetch-Control: off
+Content-Security-Policy: default-src 'self' 'unsafe-inline';
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: *
+Content-Length: 0
+Date: Tue, 01 Jul 2025 23:32:06 GMT
+Connection: keep-alive
+
