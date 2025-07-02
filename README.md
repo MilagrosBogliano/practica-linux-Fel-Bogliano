@@ -127,8 +127,6 @@ oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
 
 ### 6. 🐳 Contenedores y Docker Compose
 
-### 6. 🐳 Contenedores y Docker Compose
-
 Se levantó el servicio Pi-hole utilizando Docker Compose.
 
 Cada alumno realizó la verificación en su propia VM:
