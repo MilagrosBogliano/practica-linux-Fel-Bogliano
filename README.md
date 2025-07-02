@@ -104,7 +104,7 @@ oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
 ### 3. 👥 Gestión de Permisos y Usuarios
 
 - Se crearon directorios personales con permisos adecuados.
-- Se crearon usuarios locales (`estudiante1`, `estudiante2`, etc.).
+- Se crearon usuarios locales (`usuario1`, `usuario2`, etc.).
 - Se configuró el grupo `equipotrabajo`.
 - Verificaciones guardadas en `usuarios_*.txt` y `verificacion_permisos.txt`.
 
