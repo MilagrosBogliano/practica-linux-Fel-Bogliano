@@ -27,7 +27,7 @@ Aplicar conocimientos de administración de sistemas Linux, virtualización, con
 
 ---
 
-### [2. 📸 Neofetch Colaborativo](https://github.com/MilagrosBogliano/practica-linux-Fel-Bogliano/tree/main/neofetch)
+### 2. 📸 Neofetch Colaborativo
 
 - Cada alumno ejecutó `neofetch` en su VM y agregó la salida a `system_info.txt` de forma colaborativa sin sobrescribir a otros.
 
