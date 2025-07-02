@@ -33,73 +33,16 @@ Aplicar conocimientos de administración de sistemas Linux, virtualización, con
 
 ## 🖥️ Vista previa de Neofetch
 ===== NEOFETCH DE BOGLIANO =====
-            .-/+oossssoo+/-.               vagrant@linux-practice
-        `:+ssssssssssssssssss+:`           ----------------------
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.5 LTS x86_64
-    .ossssssssssssssssssdMMMNysssso.       Host: VirtualBox 1.2
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-140-generic
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 1 hour, 43 mins
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 693 (dpkg), 4 (snap)
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1024x768
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/0
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: 12th Gen Intel i7-1255U (2) @ 2.611GHz
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: VirtualBox Graphics Adapter
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: 216MiB / 1963MiB
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
-
-
-
+ 
+ ![neofetch_bogliano](https://github.com/user-attachments/assets/f6acf628-bdd9-4f4a-8b53-51277946154e)
 
 ===== NEOFETCH DE FEL =====
-            .-/+oossssoo+/-.               vagrant@linux-practice
-        `:+ssssssssssssssssss+:`           ----------------------
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.5 LTS x86_64
-    .ossssssssssssssssssdMMMNysssso.       Host: VirtualBox 1.2
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-140-generic
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 1 hour, 47 mins
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 692 (dpkg), 4 (snap)
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1024x768
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/2
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: AMD Ryzen 5 5500 (2) @ 3.593GHz
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: VirtualBox Graphics Adapter
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: 228MiB / 1963MiB
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
+
+![neofetch_fel](https://github.com/user-attachments/assets/65d0fa19-1bcf-463b-9606-1cdfa58fd60b)
 
 ===== NEOFETCH DE TERCER PERSONA =====
-[?25l[?7l[0m[31m[1m            .-/+oossssoo+/-.
-        `:+ssssssssssssssssss+:`
-      -+ssssssssssssssssssyyssss+-
-    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
-   /sssssssssss[37m[0m[1mhdmmNNmmyNMMMMh[0m[31m[1mssssss/
-  +sssssssss[37m[0m[1mhm[0m[31m[1myd[37m[0m[1mMMMMMMMNddddy[0m[31m[1mssssssss+
- /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhmNMMMNh[0m[31m[1mssssssss/
-.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
-+ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
-oss[37m[0m[1myNMMMNyMMh[0m[31m[1mssssssssssssss[37m[0m[1mhmmmh[0m[31m[1mssssssso
-oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
-+ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
-.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
- /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhdNMMMNh[0m[31m[1mssssssss/
-  +sssssssss[37m[0m[1mdm[0m[31m[1myd[37m[0m[1mMMMMMMMMddddy[0m[31m[1mssssssss+
-   /sssssssssss[37m[0m[1mhdmNNNNmyNMMMMh[0m[31m[1mssssss/
-    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
-      -+sssssssssssssssss[37m[0m[1myyy[0m[31m[1mssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
+
+![neofetch_tercer_persona](https://github.com/user-attachments/assets/0a683007-064e-42d2-a64e-3de072cc3bcd)
 
 ---
 
