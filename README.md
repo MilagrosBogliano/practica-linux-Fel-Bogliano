@@ -1,6 +1,8 @@
 # Trabajo Práctico – Administración de Sistemas Linux con Vagrant 🐧
 
-**Repositorio:** `practica-linux-Fel-Bogliano`  
+🔗 **Repositorio en GitHub:**   
+[https://github.com/tu-usuario/practica-linux-Fel-Bogliano](https://github.com/tu-usuario/practica-linux-Fel-Bogliano)
+
 **Grupo:**  
 - Lucas Agustin Fel Tajes  
 - Milagros Vanesa Bogliano
